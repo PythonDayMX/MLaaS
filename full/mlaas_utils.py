@@ -32,6 +32,8 @@ def net_loader(base_url):
     # Load weights into loaded model:
     loaded_model.load_weights(base_url + "model.h5")
     print("Loaded model from disk")
+
+    # Compile model:
     loaded_model.compile(loss='categorical_crossentropy',
                          optimizer='adam', metrics=['accuracy'])
 
@@ -51,8 +53,10 @@ def base64_to_png(img_base64):
     return
 
 
-if __name__ == '__main__':
-    model = net_loader("../assets/")
+def test(model):
+    """
+    Utility function to test loaded model.
+    """
     digit = cv2.imread('../assets/temp.png', 0)
     digit = digit.reshape((1, 28, 28)).astype('float32')
     digit = digit / 255
@@ -61,3 +65,10 @@ if __name__ == '__main__':
     input_data = np.array([digit])
     prediction = model.predict(input_data)
     print(prediction)
+
+    return
+
+
+if __name__ == '__main__':
+    model = net_loader("../assets/")
+    test(model)
