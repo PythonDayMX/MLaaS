@@ -5,7 +5,7 @@
 > **Tallerista:** Rodolfo Ferro <br>
 > **Twitter:** [@FerroRodolfo](https://twitter.com/FerroRodolfo) <br>
 > **Contacto:** [https://rodolfoferro.xyz](https://rodolfoferro.xyz) <br>
-> **Slides:** [¡Click aquí!]()
+> **Slides:** [¡Click aquí!](https://goo.gl/12TyFB)
 ------
 ![MLaaS](assets/MLaaS.png)
 
@@ -16,6 +16,8 @@ En este taller se creará un servicio que utilice algún modelo de aprendizaje d
 La idea será introducir lo que es MLaaS y entrenar una [*red neuronal*](https://es.wikipedia.org/wiki/Red_neuronal_artificial) para resolver algún problema específico utilizando Keras y Google Colab, tras esto, guardar los pesos entrenados para cargar la arquitectura de manera local y montar el sistema a través de una API construida con Flask.
 
 Para este taller se necesitan conocimientos intermedio-avanzados sobre programación en Python, sobretodo con el uso de paquetería científica (NumPy, Pandas y de ser posible Flask y Keras). Parte de los objetivos es que posterior al taller se cuente con material y conocimientos para poder desarrollar modelos de IA como servicio; con Python, por supuesto. Para el taller se proporciona código base para a partir de ahí montar el servicio.
+
+**Slides:** [¡Click aquí!](https://goo.gl/12TyFB)
 
 ## ⚙️ Instalación
 
