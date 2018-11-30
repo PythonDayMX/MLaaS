@@ -49,8 +49,6 @@ conda deactivate
 
 #### ABOUT COPYING OR USING PARTIAL INFORMATION:
 
-*This repo was originally created by Rodolfo Ferro, for
-his workshop in PythonDay Mexico 2018 at CUCEA in Gdl, Mx.
-Any explicit usage of this repo or its contents is granted*
-according to the license provided and its conditions.
+*This repo was originally created by Rodolfo Ferro, for his workshop in PythonDay Mexico 2018 at CUCEA in Gdl, Mx. Any explicit usage of this repo or its contents is granted according to the license provided and its conditions.*
+
 ------
