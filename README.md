@@ -32,7 +32,7 @@ cd MLaaS
 
 Y corre lo siguiente:
 ```bash
-# Instala el entorno de Anaconda:
+# Crea el entorno de Anaconda:
 conda env create -f environment.yml
 ```
 
