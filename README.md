@@ -1,10 +1,10 @@
 
 > #### Quick info:
 >
-> **Taller:** *Machine Learning as a Service (MLaaS): Sirvendo soluciones inteligentes*
-> **Tallerista:** Rodolfo Ferro
-> **Twitter:** [@FerroRodolfo](https://twitter.com/FerroRodolfo)
-> **Contacto:** [https://rodolfoferro.xyz](https://rodolfoferro.xyz)
+> **Taller:** *Machine Learning as a Service (MLaaS): Sirvendo soluciones inteligentes* <br>
+> **Tallerista:** Rodolfo Ferro <br>
+> **Twitter:** [@FerroRodolfo](https://twitter.com/FerroRodolfo) <br>
+> **Contacto:** [https://rodolfoferro.xyz](https://rodolfoferro.xyz) <br>
 > **Slides:** [¡Click aquí!]()
 ------
 ![MLaaS](assets/MLaaS.png)
