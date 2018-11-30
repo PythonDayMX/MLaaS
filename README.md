@@ -11,8 +11,6 @@
 
 # Machine Learning as a Service (MLaaS): Sirvendo soluciones inteligentes
 
-## 📑 Descripción
-
 En este taller se creará un servicio que utilice algún modelo de aprendizaje de máquina entrenado, a través de una REST API. Todo ello con el poder de Keras, Tensorflow, NumPy, Pandas y Flask.
 
 La idea será introducir lo que es MLaaS y entrenar una [*red neuronal*](https://es.wikipedia.org/wiki/Red_neuronal_artificial) para resolver algún problema específico utilizando Keras y Google Colab, tras esto, guardar los pesos entrenados para cargar la arquitectura de manera local y montar el sistema a través de una API construida con Flask.
@@ -45,10 +43,20 @@ conda activate MLaaS
 conda deactivate
 ```
 
-## 💻 Licencia
+Para el entrenamiento del modelo de IA, estaremos trabajando en [Google Colab](https://colab.research.google.com/), donde puedes acceder a notebooks en línea para crear y entrenar modelos en la nube.
 
-#### ABOUT COPYING OR USING PARTIAL INFORMATION:
+Puedes importar todos los notebooks directamente a Colab en la sección de GitHub a través del link a este repositorio: https://github.com/PythonDayMX/MLaaS
 
-*This repo was originally created by Rodolfo Ferro, for his workshop in PythonDay Mexico 2018 at CUCEA in Gdl, Mx. Any explicit usage of this repo or its contents is granted according to the license provided and its conditions.*
+## 👾 Contenido
 
-------
+El repositorio y taller están autocontenidos, a través del notebook `MNIST - CNN Model.ipynb` dentro de la carpeta code que contiene todo el código a desarrollarse durante el taller, además de incluirse un modelo pre-entrenado y un conjunto de imágenes utilizadas en el notebook.
+
+
+***
+
+### SOBRE EL USO DE INFORMACIÓN TOTAL O PARCIAL: 🔐
+* Estos documentos fueron originalmente creados por el autor.
+* Cualquier uso de estos documentos o sus contenidos están permitidos a través de la licencia provista y sus condiciones.
+* Para cualquier aclaración, puedes contactar al autor: https://rodolfoferro.xyz/
+
+**Copyright (c) 2018 Rodolfo Ferro**
